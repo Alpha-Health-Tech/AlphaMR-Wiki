@@ -1,6 +1,7 @@
 ---
 title: Managing Appointments
-description: Schedule and manage patient bookings in Alpha Medical Records
+description: Schedule and manage patient bookings in AlphaMR
+featured: true
 ---
 
 Learn how to create, modify, and manage appointments in your clinic.

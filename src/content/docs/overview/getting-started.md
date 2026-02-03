@@ -1,9 +1,10 @@
 ---
 title: Getting Started
-description: Learn the basics and set up your Alpha Medical Records clinic profile
+description: Learn the basics and set up your AlphaMR clinic profile
+featured: true
 ---
 
-Welcome to Alpha Medical Records! This guide will help you get your clinic up and running.
+Welcome to AlphaMR! This guide will help you get your clinic up and running.
 
 ## Setting up your clinic profile
 

@@ -1,6 +1,7 @@
 ---
 title: Invoicing & Payments
-description: Create invoices and manage payments in Alpha Medical Records
+description: Create invoices and manage payments in AlphaMR
+featured: true
 ---
 
 Manage your clinic's billing, invoicing, and payment tracking.

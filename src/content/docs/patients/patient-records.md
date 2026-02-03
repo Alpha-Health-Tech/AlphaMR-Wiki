@@ -1,6 +1,7 @@
 ---
 title: Patient Records
-description: Create, update, and manage patient files in Alpha Medical Records
+description: Create, update, and manage patient files in AlphaMR
+featured: true
 ---
 
 Efficiently managing patient information is core to your clinic. This guide covers how to create, update, and organize patient records.
