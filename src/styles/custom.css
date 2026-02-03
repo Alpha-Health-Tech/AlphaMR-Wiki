@@ -103,13 +103,13 @@ site-search button {
 
 .hero {
   background: #6D66FE !important;
-  padding: 5rem 2rem 4rem !important;
-  text-align: center !important;
+  padding: 4rem 0 3rem !important;
+  text-align: left !important;
   margin-left: calc(-50vw + 50%) !important;
   margin-right: calc(-50vw + 50%) !important;
   margin-top: 0 !important;
-  padding-left: calc(50vw - 50% + 2rem) !important;
-  padding-right: calc(50vw - 50% + 2rem) !important;
+  padding-left: calc(50vw - 50%) !important;
+  padding-right: calc(50vw - 50%) !important;
   border-bottom: none;
 }
 
@@ -117,12 +117,14 @@ site-search button {
   color: #ffffff !important;
   font-size: 2.5rem !important;
   font-weight: 700 !important;
-  margin-bottom: 0.75rem !important;
+  margin-bottom: 0.5rem !important;
+  max-width: none !important;
 }
 
 .hero .tagline {
   color: rgba(255, 255, 255, 0.9) !important;
   font-size: 1.1rem !important;
+  max-width: none !important;
 }
 
 .hero .sl-flex.actions {
@@ -371,9 +373,9 @@ a:hover {
 /* Mobile */
 @media (max-width: 768px) {
   .hero {
-    padding: 3rem 1rem 2rem !important;
-    padding-left: calc(50vw - 50% + 1rem) !important;
-    padding-right: calc(50vw - 50% + 1rem) !important;
+    padding: 2.5rem 0 2rem !important;
+    padding-left: calc(50vw - 50%) !important;
+    padding-right: calc(50vw - 50%) !important;
   }
 
   .hero h1 {
