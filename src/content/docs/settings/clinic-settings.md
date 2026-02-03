@@ -32,4 +32,4 @@ Manage your team:
 
 ## Related guides
 
-- [Getting started](/alphamr-wiki/overview/getting-started/)
+- [Getting started](/AlphaMR-Wiki/overview/getting-started/)

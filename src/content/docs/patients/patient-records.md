@@ -36,5 +36,5 @@ View a patient's complete history including:
 
 ## Related guides
 
-- [Clinical notes](/alphamr-wiki/medical-records/clinical-notes/)
-- [Managing appointments](/alphamr-wiki/bookings/managing-appointments/)
+- [Clinical notes](/AlphaMR-Wiki/medical-records/clinical-notes/)
+- [Managing appointments](/AlphaMR-Wiki/bookings/managing-appointments/)

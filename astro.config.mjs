@@ -2,8 +2,8 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://michaelazer.github.io',
-  base: '/alphamr-wiki',
+  site: 'https://alpha-health-tech.github.io',
+  base: '/AlphaMR-Wiki',
   integrations: [
     starlight({
       title: 'AlphaMR Help',

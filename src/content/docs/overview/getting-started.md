@@ -17,6 +17,6 @@ Welcome to AlphaMR! This guide will help you get your clinic up and running.
 
 Once your clinic is set up, explore these guides:
 
-- [Managing appointments](/alphamr-wiki/bookings/managing-appointments/) - Schedule patient visits
-- [Patient records](/alphamr-wiki/patients/patient-records/) - Add and manage patient files
-- [Billing setup](/alphamr-wiki/billing/invoicing/) - Configure invoicing
+- [Managing appointments](/AlphaMR-Wiki/bookings/managing-appointments/) - Schedule patient visits
+- [Patient records](/AlphaMR-Wiki/patients/patient-records/) - Add and manage patient files
+- [Billing setup](/AlphaMR-Wiki/billing/invoicing/) - Configure invoicing

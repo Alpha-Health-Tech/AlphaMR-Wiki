@@ -36,5 +36,5 @@ To cancel an appointment:
 
 ## Related guides
 
-- [Patient records](/alphamr-wiki/patients/patient-records/)
-- [Managing GPs](/alphamr-wiki/gps-referrals/managing-gps/)
+- [Patient records](/AlphaMR-Wiki/patients/patient-records/)
+- [Managing GPs](/AlphaMR-Wiki/gps-referrals/managing-gps/)

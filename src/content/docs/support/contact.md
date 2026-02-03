@@ -31,7 +31,7 @@ To help us resolve your issue faster, please have ready:
 Click "Forgot Password" on the login page and follow the instructions.
 
 **How do I add a new staff member?**
-Go to Settings > Users > Invite User. See our [user management guide](/alphamr-wiki/settings/clinic-settings/).
+Go to Settings > Users > Invite User. See our [user management guide](/AlphaMR-Wiki/settings/clinic-settings/).
 
 **How do I export patient data?**
 Go to Patients > Export and select your export options.

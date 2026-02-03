@@ -31,5 +31,5 @@ Keep track of referring GPs and manage the referral process efficiently.
 
 ## Related guides
 
-- [Patient records](/alphamr-wiki/patients/patient-records/)
-- [Clinical notes](/alphamr-wiki/medical-records/clinical-notes/)
+- [Patient records](/AlphaMR-Wiki/patients/patient-records/)
+- [Clinical notes](/AlphaMR-Wiki/medical-records/clinical-notes/)

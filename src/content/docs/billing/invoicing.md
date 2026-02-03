@@ -47,5 +47,5 @@ For patients with insurance:
 
 ## Related guides
 
-- [Patient records](/alphamr-wiki/patients/patient-records/)
-- [Getting started](/alphamr-wiki/overview/getting-started/)
+- [Patient records](/AlphaMR-Wiki/patients/patient-records/)
+- [Getting started](/AlphaMR-Wiki/overview/getting-started/)
